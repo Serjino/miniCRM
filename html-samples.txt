@@ -1,0 +1,58 @@
+   TABLE ROW
+
+   <!-- <tr class="clients-table__row">
+                            <td class="clients-table__cell clients-table__cell_id">
+                                123455
+                            </td>
+                            <td class="clients-table__cell clients-table__cell_client-name">
+                                Константинопольская Людмила Александровна
+                            </td>
+                            <td class="clients-table__cell clients-table__cell_creation-date-time">
+                                <span class="creation-date">21.02.2021</span>
+                                <span class="creation-time">12:41</span>
+                            </td>
+                            <td class="clients-table__cell clients-table__cell_last-change-time">
+                                <span class="change-date">21.02.2021</span>
+                                <span class="change-time">14:50</span>
+                            </td>
+                            <td class="clients-table__cell clients-table__cell_contacts">
+                                <ul class="contacts">
+                                    <li class="contact">
+                                        <a href="#" class="contact__link contact__link_icon contact__link_vk"></a>
+                                    </li>
+                                    <li class="contact">
+                                        <a href="#" class="contact__link contact__link_icon contact__link_fb"></a>
+                                    </li>
+                                    <li class="contact">
+                                        <a href="#" class="contact__link contact__link_icon contact__link_tel"></a>
+                                    </li>
+                                    <li class="contact">
+                                        <a href="#" class="contact__link contact__link_icon contact__link_email"></a>
+                                    </li>
+                                    <li class="contact">
+                                        <a href="#"
+                                            class="contact__link contact__link_icon contact__link_more-contacts">+6</a>
+                                    </li>
+                                </ul>
+                            </td>
+                            <td class="clients-table__cell clients-table__cell_actions">
+                                <button class="btn clients-table__btn clients-table__btn_change">Изменить</button>
+                                <button class="btn clients-table__btn clients-table__btn_delete">Удалить</button>
+                            </td>
+                        </tr> -->
+
+
+====================================================================================
+
+<!-- Select -->
+                <!-- <div class="new-contact add-client-form__new-contact">
+                    <select name="new-contact-select" class="new-contact__select">
+                        <option class="new-contact__option" value="telephone">Телефон</option>
+                        <option class="new-contact__option" value="additional-telephone">Доп. телефон</option>
+                        <option class="new-contact__option" value="email">Email</option>
+                        <option class="new-contact__option" value="vk">Vk</option>
+                        <option class="new-contact__option" value="fb">Facebook</option>
+                    </select>
+                    <input class="new-contact__input" type="text">
+                </div>
+                </div> -->
